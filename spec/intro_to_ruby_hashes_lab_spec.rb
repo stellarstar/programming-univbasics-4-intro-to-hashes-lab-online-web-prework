@@ -7,7 +7,7 @@ value != 0
 end
   
 def pioneer
-{:name => "Grace Hoper"}
+{:name => "Grace Hopper"}
 end
   
 def id_generator
